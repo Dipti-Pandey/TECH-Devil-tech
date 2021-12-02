@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TECH-Devil-tech
-- 👀 I’m interested in WEB DEVELOPMENT & DATABASE ADMINISTRATION.
-- 🌱 I’m currently learning Android Development 
-- 💞️ I’m looking to collaborate on Web Development Project.
+- 👀 Data Science Enthusiast.
+- 🌱 I’m Learning AI/ML. 
+- 💞️ I’ll greatful to contribute in Data Science Project.
 - 📫 How to reach me- Mail @diptipandey1002@gmail.com
 
 <!---
