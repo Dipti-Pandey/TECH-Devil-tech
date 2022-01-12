@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TECH-Devil-tech
+- 👋 Hi, I’m @Dipti Pandey
 - 👀 Data Science Enthusiast.
 - 🌱 I’m Learning AI/ML. 
 - 💞️ I’ll greatful to contribute in Data Science Project.
